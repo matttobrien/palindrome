@@ -2,7 +2,7 @@
  * Assignment 1
  * Create a program which reads a string from the user,
  * then determines if the string is a palindrome, mirrored palindrome or mirrored string.
- * @author Matthew O'Brien 104944866
+ * @author Matthew O'Brien
  * @date October 5th 2018
  * @version 1
  */
